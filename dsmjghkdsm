@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhoIAmDark/DarkSide-Hub-Premium/refs/heads/main/DarkSide%20Hub%20Premium"))()
